@@ -171,12 +171,12 @@ a:active {
 
 #fullperson {
     position: absolute;
-    background-image: url(../graphics/fullbody.svg);
+    background-image: url(../img/picnew.png);
     background-repeat: no-repeat;
-    width: 40vw;
+    width: 50vw;
     height: 40vw;
     top: 10vw;
-    left: 24vw;
+    left: -5vw;
 }
 
 #name {
@@ -219,8 +219,8 @@ a:active {
 #portrait {
     width: 40vw;
     height: 40vw;
-    margin-top: 8vw;
-    margin-left: 15%;
+    margin-top: 13vw;
+    margin-left: 5vw;
 }
 
 #aboutme {
@@ -250,11 +250,11 @@ a:active {
 }
 
 .age {
-    margin-left: 1vw;
+    margin-left: 0;
 }
 
 #nat {
-    margin-left: 1.5vw;
+    margin-left: 0;
 }
 
 .zero {
